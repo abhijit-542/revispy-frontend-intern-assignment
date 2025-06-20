@@ -33,7 +33,7 @@ const MobileNav = () => {
           Hi, {name[0]}
         </span>
       )}
-      <div className="flex items-center justify-between pt-72">
+      <div className="flex items-center justify-between">
         <div className="flex items-center gap-3">
           <Sheet>
             <SheetTrigger>
